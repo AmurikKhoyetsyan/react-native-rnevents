@@ -19,7 +19,7 @@
     "react-native-rnevents": "0.0.2"
   },
   "devDependencies": {
-    "@babel/core": "7.9.0",
+    "@babel/core": "7.29.6",
     "@babel/runtime": "7.9.2",
     "@react-native-community/eslint-config": "0.0.5",
     "babel-jest": "24.9.0",
